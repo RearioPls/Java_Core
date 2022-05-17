@@ -2,10 +2,10 @@ package primitive5;
 
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println(isPowerOfTwo(4));
     }
     public static boolean isPowerOfTwo(int value) {
-        //Твой код здесь
-        return false;
+        return Integer.bitCount(Math.abs(value)) == 1;
     }
 }
+
