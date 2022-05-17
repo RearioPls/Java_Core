@@ -1,5 +1,7 @@
 package primitive3;
-
+/**
+ * Проверено
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println(drawisMonitorsCounter(100,3));
