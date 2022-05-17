@@ -1,4 +1,7 @@
 package primitive2;
+/**
+ * Проверено
+ */
 
 import java.math.BigInteger;
 
