@@ -1,5 +1,7 @@
 package primitive1;
-
+/*
+Исправить, отрефакторить метод doubleExpression, убрать лишние переменные и if
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println(doubleExpression(1,1,2));
