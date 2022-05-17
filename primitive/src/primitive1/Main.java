@@ -1,5 +1,8 @@
 package primitive1;
 
+/**
+ * Проверено
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println(doubleExpression(1.1, 1.1, 2.7));
