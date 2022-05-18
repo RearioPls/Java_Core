@@ -1,5 +1,8 @@
 package primitive6;
 
+/**
+ * Проверено
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println(isPalindrome("Was it a cat I saw?"));
